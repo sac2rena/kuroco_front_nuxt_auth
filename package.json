@@ -28,7 +28,7 @@
     "nuxt": "^2.15.7",
     "validator": "^13.7.0",
     "vue-snack": "^0.1.4",
-    "vuetify": "^2.5.5",
+    "vuetify": "^2.6.15",
     "vuetify-datetime-picker": "^2.1.1"
   },
   "devDependencies": {
